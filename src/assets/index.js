@@ -21,7 +21,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import carrent from "./carrent.png";
 import tripguide from "./tripguide.png";
-
 export {
   logo,
   backend,
@@ -44,11 +43,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
-  jobit,
   tripguide,
 };

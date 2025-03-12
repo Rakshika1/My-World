@@ -15,13 +15,7 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
-  jobit,
-  tripguide,
   threejs,
 } from "../assets";
 
@@ -136,7 +130,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: jobit, 
+    image: carrent, 
     source_code_link: "https://github.com/", 
   },
   {
